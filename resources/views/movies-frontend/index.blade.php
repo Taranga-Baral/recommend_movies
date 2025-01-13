@@ -1,3 +1,4 @@
+{{-- the movie listing page (displaying the list of all possible movies available via query) --}}
 <!DOCTYPE html>
 <html lang="en">
 <head>
