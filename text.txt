@@ -1,0 +1,29 @@
+api_key: Your personal API key for accessing TMDb API.
+
+language: Specify the language for the data returned (e.g., en-US, es-ES).
+
+page: Page number of the results.
+
+region: Filter the results to include only items that have this region data.
+
+append_to_response: Additional data to append to the response (e.g., videos, credits).
+
+include_adult: Whether to include adult content (true or false).
+
+include_video: Whether to include videos in the results (true or false).
+
+sort_by: Sort the results by a specific value (popularity.desc, release_date.asc, etc.).
+
+vote_average.gte: Minimum vote average for filtering results.
+
+vote_count.gte: Minimum vote count for filtering results.
+
+release_date.gte: Minimum release date for filtering results.
+
+with_genres: Filter the results to include only items with specific genres (comma-separated list of genre IDs).
+
+without_genres: Exclude results with specific genres (comma-separated list of genre IDs).
+
+with_companies: Filter the results to include only items with specific production companies (comma-separated list of company IDs).
+
+with_keywords: Filter the results to include only items with specific keywords (comma-separated list of keyword IDs).
